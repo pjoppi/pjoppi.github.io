@@ -18,7 +18,7 @@ All processing happens between your command and your RDP — nothing is shared w
 ## Disclaimer
 
 The Bot is provided **"as is"** without any warranties.  
-We are not responsible for any issues with your RDP instance, verification results, or any consequences from using the command.
+We are not responsible for any issues with the bot at any explicit time.
 
 ## Termination
 
