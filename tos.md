@@ -13,7 +13,7 @@ By using **Biome Checker** (the "Bot"), you agree to these Terms of Service and 
 ## How the Bot Works
 
 The Bot provides a single command that allows you to verify a biome by communicating with **my own personal RDP instance**.  
-All processing happens between your command and your RDP — nothing is shared with other users.
+All processing happens between your command and my RDP instance.
 
 ## Disclaimer
 
